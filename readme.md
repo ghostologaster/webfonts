@@ -1,0 +1,1 @@
+ [ANDIKA](https://software.sil.org/andika/), [LINUX LIBERTINE](https://sourceforge.net/projects/linuxlibertine/) and [BIOLINUM](https://sourceforge.net/projects/linuxlibertine/) under the [SIL Open Font License](http://scripts.sil.org/ofl)
